@@ -43,3 +43,4 @@ stopBtn.addEventListener('click', () => {
     player.classList.remove('player_active');
   }
 });
+
